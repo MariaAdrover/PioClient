@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PioClient</string>
+    <string name="left">left</string>
+    <string name="right">right</string>
+    <string name="up">up</string>
+    <string name="down">down</string>
+    <string name="ipText">IP</string>
+    <string name="portText">PORT</string>
+    <string name="conect">CONNECT</string>
+    <string name="action">action</string>
+</resources>
